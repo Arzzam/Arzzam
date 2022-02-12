@@ -10,7 +10,7 @@
 🌱 &nbsp;I'm on track for learning more about ReactJs, ThreeJs.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at arzzam19@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at arzzam19@gmail.com! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="./files/night-coding.gif" align="right"/>
 
