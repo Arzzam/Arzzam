@@ -1,4 +1,3 @@
-
 <img alt="Night Coding" src="./files/handwave.gif" width='50' align="left"/><h2>Hey there! I'm Nafil Arzzam</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Nafil Arzzam -->
@@ -12,7 +11,7 @@
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at arzzam19@gmail.com! I'll try to respond as soon as I can.
 
-<img alt="Night Coding" src="./files/night-coding.gif" align="right"/>
+<img alt="Night Coding" height="250em" src="./files/night-coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -34,8 +33,8 @@
 
 <p align="center">
 <a href="https://github.com/Arzzam">
-  <img height="180em" width="460em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Arzzam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="460em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Arzzam&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Arzzam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Arzzam&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
