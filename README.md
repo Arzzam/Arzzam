@@ -1,5 +1,5 @@
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Nafil Arzzam</h2>
+<img alt="Night Coding" src="./files/handwave.gif" width='40' align="left"/><h2>Hey there! I'm Nafil Arzzam</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Nafil Arzzam -->
 
@@ -12,7 +12,7 @@
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at arzzam19@gmail.com! I'll try to respond as soon as I can.\
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="./files/night-coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
