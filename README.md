@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to explore new cool sites and develop functional websites.\
 🎓 &nbsp;I'm currently studying Computer Science Engineering in SCADCET.\
 🌱 &nbsp;I'm on track for learning more about ReactJs, ThreeJs.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design.\
