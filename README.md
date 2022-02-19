@@ -33,9 +33,9 @@
 
 <p align="center">
 <a href="https://github.com/Arzzam">
-  <img height="180em" width="390" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Arzzam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="390" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Arzzam&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="180em" width="390" src="https://github-readme-streak-stats.herokuapp.com?user=Arzzam&theme=algolia"/>
+  <img height="180em" width="390" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arzzam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="390" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arzzam&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width="390" src="https://github-readme-streak-stats.herokuapp.com?user=arzzam&theme=algolia"/>
 </a>
 </p>
 
