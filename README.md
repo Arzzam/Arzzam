@@ -33,11 +33,13 @@
 
 <p align="center">
 <a href="https://github.com/Arzzam">
-  <img height="180em" width="390" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arzzam&show_icons=true&theme=algolia&include_all_commits=true&count_private=false"/>
+  <img height="180em" width="390" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arzzam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" width="390" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arzzam&layout=compact&langs_count=8&theme=algolia"/>
   <img height="180em" width="390" src="https://github-readme-streak-stats.herokuapp.com?user=arzzam&theme=algolia"/>
 </a>
 </p>
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
