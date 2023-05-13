@@ -6,7 +6,7 @@
 
 💡 &nbsp;I like to explore new cool sites and develop functional websites.\
 🎓 &nbsp;I'm currently studying Computer Science Engineering in SCADCET.\
-🌱 &nbsp;I'm on track for learning more about ReactJs, ThreeJs.\
+🌱 &nbsp;I'm on track for learning more about ReactJs, Typescript.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at arzzam19@gmail.com! I'll try to respond as soon as I can.
