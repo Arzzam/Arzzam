@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new cool sites and develop functional websites.\
-🎓 &nbsp;I'm currently studying Computer Science Engineering in SCADCET.\
+🎓 &nbsp;I recently graduated in Computer Science Engineering at SCADCET.\
 🌱 &nbsp;I'm on track for learning more about ReactJs, Typescript.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
@@ -25,9 +25,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 [//]: <> (This is also a comment.)
