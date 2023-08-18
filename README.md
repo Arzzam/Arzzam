@@ -32,8 +32,8 @@
 [//]: <> (This is also a comment.)
 <p align="center">
 <a href="https://github.com/Arzzam">
-  <img height="180em" width="390" src="https://github-readme-stats.arzzam.vercel.app/api?username=arzzam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="390" src="https://github-readme-stats.arzzam.vercel.app/api/top-langs/?username=arzzam&layout=compact&langs_count=8&theme=algolia&count_private=true"/>
+  <img height="180em" width="390" src="https://github-readme-stats.arzzam.vercel.app/api?username=arzzam&count_private=true&show_icons=true&include_all_commits=true&hide=stars&theme=algolia"/>
+  <img height="180em" width="390" src="https://github-readme-stats.arzzam.vercel.app/api/top-langs/?username=arzzam&count_private=true&layout=compact&langs_count=8&theme=algolia"/>
   <img height="180em" width="390" src="https://github-readme-streak-stats.herokuapp.com?user=arzzam&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
