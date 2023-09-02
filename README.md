@@ -34,7 +34,7 @@
 <a href="https://github.com/Arzzam">
   <img height="180em" width="390" src="https://github-readme-stats.arzzam.vercel.app/api?username=arzzam&show_icons=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&hide=issues,stars&theme=algolia"/>
   <img height="180em" width="390" src="https://github-readme-stats.arzzam.vercel.app/api/top-langs/?username=arzzam&layout=compact&count_private=true&langs_count=8&hide=less&exclude_repo=thumi-sam-app&theme=algolia"/>
-  <img height="180em" width="390" src="https://github-readme-streak-stats.herokuapp.com?user=arzzam&theme=algolia&exclude_days=Sun%2CSat&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="390" src="https://github-readme-streak-stats.herokuapp.com?user=arzzam&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
